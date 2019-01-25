@@ -3,9 +3,7 @@
 Requirements : .NET Framework 4.6.1 
 
 What is it used for ?
-I have a slow-ish ADSL (10Mbs down, 1Mbs up) so downloading video games / large software takes a while, but i'm lucky enough to have 
-unlimited 4G, so i can download slightly faster. Obviously i found out about ForceBindIP (it allows to force a software to use a specific
-interface) but it doesn't seem to work well with Steam or Battle.net (sometime it would just change to the interface with the lowest metric).
+I have a slow-ish ADSL (10Mbs down, 1Mbs up) so downloading video games / large software takes a while, but i'm lucky enough to have unlimited 4G, so i can download slightly faster. Obviously i found out about ForceBindIP (it allows to force a software to use a specific interface) but it doesn't seem to work well with Steam or Battle.net (sometime it would just change to the interface with the lowest metric).
 So what i used to do is set the metric of my 4G lower than my ADSL and use ForceBindIP bound to my ADSL to launch my web browser, so that 
 i could download my games and still be able to browse the internet without issues.
 So now i can do all that from one place !
