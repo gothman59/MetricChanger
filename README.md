@@ -1,7 +1,5 @@
 # MetricChanger
 
-![](https://imgur.com/je6P11q)
-
 Requirements : .NET Framework 4.6.1 
 
 What is it used for ?
