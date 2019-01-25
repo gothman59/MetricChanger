@@ -1,6 +1,6 @@
 # MetricChanger
 
-![alt text](https://imgur.com/je6P11q)
+![](https://imgur.com/je6P11q)
 
 Requirements : .NET Framework 4.6.1 
 
