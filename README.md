@@ -1,6 +1,6 @@
 # MetricChanger
 
-![MetricChangerScreenshot](https://imgur.com/je6P11q)
+![MetricChangerScreenshot](MetricChangerScreen.jpg)
 
 **Requirements : .NET Framework 4.6.1**
 
